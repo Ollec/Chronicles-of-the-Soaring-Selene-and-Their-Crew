@@ -42,11 +42,11 @@
     "worldInfoId": "111111116"
   },
 {
-"id":  "0.7",
-"keys": "Ahemait& solar system", 
-"Entry": "[Ahemait DESC:< mineral rich system>/< Single star named Ahemait>.Ahemait LOCATION:< edge of galaxy>.Ahemait PLACES:< Sol© Station& Barg’a’til Station& Asteroid Belt>.Ahemait PLANETS:< Ahemait 1& Ahemait 2& Ahemait 3& Ahemait 4>.Ahemait FACTIONS:< Limey>/< Hull Rippers>/< Sol© Corporation>.]",
-"Hidden": "false",
-"worldInfoId": "111111117"
+    "id":  "0.7",
+    "keys": "Ahemait& solar system", 
+    "Entry": "[Ahemait DESC:< mineral rich system>/< Single star named Ahemait>.Ahemait LOCATION:< edge of galaxy>.Ahemait PLACES:< Sol© Station& Barg’a’til Station& Asteroid Belt>.Ahemait PLANETS:< Ahemait 1& Ahemait 2& Ahemait 3& Ahemait 4>.Ahemait FACTIONS:< Limey>/< Hull Rippers>/< Sol© Corporation>.]",
+     "Hidden": "false",
+     "worldInfoId": "111111117"
 },
 {
     "id": "0.8",
