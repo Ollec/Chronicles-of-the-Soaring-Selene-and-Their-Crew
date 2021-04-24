@@ -1,0 +1,87 @@
+﻿[
+  {
+    "id": "0.1",
+    "keys": "Werbly",
+    "entry": "Tall, black, human woman, that has dark black hair with pink led tips. Causal clothes are denim colored blue latex overalls and a rainbow plaid shirt.",
+    "isNotHidden": true,
+    "worldInfoId": "111111111"
+  },
+  {
+    "id": "0.2",
+    "keys": "Ship, Soaring Selene",
+    "entry": "The Harbinger is a titan-class exploration ship capable of carrying 5000 tons of equipment. It is self sustainable for up to 10,000 years. Most of the crew sleeps in hibernation. It also has a radiation leak which needs to be repaired.",
+    "isNotHidden": true,
+    "worldInfoId": "111111112"
+  },
+  {
+    "id": "0.3",
+    "keys": "Hull Rippers, faction",
+    "entry": " [Hull Rippers DESC: <Combat based/ ships&& melee attacks/ scrap/ captured vessels/ protective>.Hull Rippers LOCATION:<Ahemait/ Chance/ Asteroid belt>.Hull Rippers ASSETS: < ships≡ melee>/ <Moon / mining/ asteroid belt>>.Hull Rippers ALLIES: <Limey>.Hull Rippers ENEMIES: <Sol Suckers& Sol®>.Hull Rippers SITUATION: <melee ships/ fast/ pay/ dues/ ship parts/ protect people& Chance/ rebreathers/ poor atmosphere.>]",
+    "isNotHidden": true,
+    "worldInfoId": "111111113"
+  },
+  {
+    "id": "0.4",
+    "keys": "Hull Rippers, faction",
+    "entry": "[Hull Rippers CHARACTERS: < name≡ Ta’Larg > <Ta’Larg RACE≡ <Large Half Human/ Half Vogon>. <Ta’Larg TRAITS≡ <Ruthless/ Distrustful / Short Temper/ Leader>>.< name≡ Varren> <Varren RACE≡<Human, Ruthless> < Varren TRAITS:< Lithe/ Expert Pilot>>.< name≡ Lo’Boto’rak> <Lo’Boto’rak race≡<Sinturian> < Lo’Boto’rak TRAITS:</Mechanic Savant/ creator of the special shipst>< Lo’Boto’rak DESC:< absent minded / mad raving>.>].",
+    "isNotHidden": true,
+    "worldInfoId": "111111114"
+  },
+  {
+    "id": "0.5",
+    "keys": "Ship",
+    "entry": "The Harbinger is a titan-class exploration ship capable of carrying 5000 tons of equipment. It is self sustainable for up to 10,000 years. Most of the crew sleeps in hibernation. It also has a radiation leak which needs to be repaired.",
+    "isNotHidden": true,
+    "worldInfoId": "111111115"
+  },
+  {
+    "id": "0.6",
+    "keys": "Captain",
+    "entry": "Captain Gannon is a world class pilot. He's professional and always helpful.",
+    "isNotHidden": true,
+    "worldInfoId": "111111116"
+  },
+{
+"id":  "0.7",
+"keys": "Ahemait& solar system", 
+"Entry": "[Ahemait DESC:< mineral rich system>/< Single star named Ahemait>.Ahemait LOCATION:< edge of galaxy>.Ahemait PLACES:< Sol© Station& Barg’a’til Station& Asteroid Belt>.Ahemait PLANETS:< Ahemait 1& Ahemait 2& Ahemait 3& Ahemait 4>.Ahemait FACTIONS:< Limey>/< Hull Rippers>/< Sol© Corporation>.]",
+"Hidden": "false",
+"worldInfoId": "111111117"
+},
+{
+    "id": "0.8",
+    "keys": "Ahemait 1, planet",
+    "entry": "[Ahemait 1 DESC:< mineral rich planet>/< no atmosphere>. Ahemait 1 SOLAR SYSTEM:< Ahemait>.Ahemait 1 BIOME:< barren>. Ahemait 1 FEATURES:< rocky& volcanic>.Ahemait 1 NATIVE:< Limey≡ mining faction>.Ahemait 1 PLACES:< Dugout≡ mining city>]",
+    "hidden": "false",
+    "worldInfoId": "111111118"
+  },
+{
+    "id": "0.9",
+    "keys": "Ahemait 2, planet",
+    "entry": "[Ahemait 2 DESC:< frequent extreme quakes>.Ahemait 2 SOLAR SYSTEM:< Ahemait>. Ahemait 2 Biome:< barren>. Ahemait 2 FEATURES:< craggy& giant holes>. Ahemait 2 PLACES:< Chance≡ orbiting moon>]",
+    "hidden": "false",
+"worldInfoId": "111111119"
+  },
+{
+    "id": "0.01",
+    "keys": "Ahemait 3, planet",
+    "entry": "[Ahemait 3 DESC:< Gas giant>.Ahemait 3 SOLAR SYSTEM:< Ahemait>. Ahemait 3 FEATURES:< 12 small moons& 2 large moons>. Ahemait 3 PLACES:< Aheamait 3 Research Station≡ orbiting observatory>/< Stigan Mining camp≡ mining camp on large moon>.]",
+    "hidden": "false",
+"worldInfoId": "111111101"
+  },
+{
+    "id": "0.11",
+    "keys": "Ahemait 4, planet",
+    "entry": "[Ahemait 4 DESC:< Ice planet>. Ahemait 4 SOLAR SYSTEM:< Ahemait>.]",
+    "hidden": "false",
+"worldInfoId": "111111110"
+  }
+
+
+
+
+
+
+
+
+]
