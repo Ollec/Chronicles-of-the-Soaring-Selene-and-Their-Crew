@@ -60,20 +60,20 @@
     "keys": "Ahemait 2, planet",
     "entry": "[Ahemait 2 DESC:< frequent extreme quakes>.Ahemait 2 SOLAR SYSTEM:< Ahemait>. Ahemait 2 Biome:< barren>. Ahemait 2 FEATURES:< craggy& giant holes>. Ahemait 2 PLACES:< Chance≡ orbiting moon>]",
     "hidden": "false",
-"worldInfoId": "111111119"
+    "worldInfoId": "111111119"
   },
 {
     "id": "0.01",
     "keys": "Ahemait 3, planet",
     "entry": "[Ahemait 3 DESC:< Gas giant>.Ahemait 3 SOLAR SYSTEM:< Ahemait>. Ahemait 3 FEATURES:< 12 small moons& 2 large moons>. Ahemait 3 PLACES:< Aheamait 3 Research Station≡ orbiting observatory>/< Stigan Mining camp≡ mining camp on large moon>.]",
     "hidden": "false",
-"worldInfoId": "111111101"
+    "worldInfoId": "111111101"
   },
 {
     "id": "0.11",
     "keys": "Ahemait 4, planet",
     "entry": "[Ahemait 4 DESC:< Ice planet>. Ahemait 4 SOLAR SYSTEM:< Ahemait>.]",
     "hidden": "false",
-"worldInfoId": "111111110"
+    "worldInfoId": "111111110"
   }
 ]
