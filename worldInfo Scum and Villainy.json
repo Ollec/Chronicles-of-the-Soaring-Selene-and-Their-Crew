@@ -8,8 +8,8 @@
   },
   {
     "id": "0.000000002",
-    "keys": "Ship, Soaring Selene",
-    "entry": "The Harbinger is a titan-class exploration ship capable of carrying 5000 tons of equipment. It is self sustainable for up to 10,000 years. Most of the crew sleeps in hibernation. It also has a radiation leak which needs to be repaired.",
+    "keys": "Ship, Soaring Selene, Selene",
+    "entry": "[ Soaring Selene DESC:<Ship/ Stardancer/ freighter/ fly/ artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP:< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>. Soaring Selene POWERS:< Flase Ship papers/ Dark Hyperspace Lane Maps/ Precursor Singal Suppressor/ Matter Reconstructor and PSU/ Cargo Eye, Just Passing Through, Home Cooking>. Soaring Selene ALLIES:< Werbly/ Sam/ Skrim/ Triml'n/ Sobek>. Soaring Selene CONTACTS:< Rakka>. Soaring Selene DIET:< fuel>.]",
     "isNotHidden": true,
     "worldInfoId": "000000002"
   },
