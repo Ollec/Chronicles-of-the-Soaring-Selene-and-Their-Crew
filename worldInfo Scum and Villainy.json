@@ -117,5 +117,12 @@
     "entry": " [Limey DESC: <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION:<Ahemait/ Dugout>.Limey ASSETS: <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES: <Hull Rippers>.Limey ENEMIES: <Sol®>.Limey SITUATION: <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
     "isNotHidden": true,
     "worldInfoId": "000000017"
+  },
+  {
+    "id": "0.0001",
+    "keys": "Sol© Station",
+    "entry": "[< Sol© Station DESC:< high tech corporate orbiting station>. <Sol© Station FACTION≡ Sol© Corporation>. < Powered entirely by the solar energy of the star it orbits this is a standard refueling/maintenance station owned and defended by the Sol® Corporation.>]",
+    "hidden": "false",
+    "worldInfoId": "236938337"
   }
 ]
