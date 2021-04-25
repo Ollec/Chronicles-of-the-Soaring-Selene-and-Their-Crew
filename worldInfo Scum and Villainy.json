@@ -2,14 +2,14 @@
   {
     "id": "0.000000001",
     "keys": "Werbly",
-    "entry": "Tall, black, human woman, that has dark black hair with pink led tips. Causal clothes are denim colored blue latex overalls and a rainbow plaid shirt. Sol®",
+    "entry": "Tall, black, human woman, that has dark black hair with pink led tips. Causal clothes are denim colored blue latex overalls and a rainbow plaid shirt. Sol®. Knows Lilly as Talia. Tall, black, human woman, that has dark black hair with pink led tips. Wears the Sol© security outfit at work. Home is currently on Warren. Causal clothes are denim colored blue latex overalls and a rainbow plaid shirt.",
     "isNotHidden": true,
     "worldInfoId": "000000001"
   },
   {
     "id": "0.000000002",
-    "keys": "Ship, Soaring Selene, Selene",
-    "entry": "[ Soaring Selene DESC:<Ship/ Stardancer/ freighter/ fly/ artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP:< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>. Soaring Selene POWERS:< Flase Ship papers/ Dark Hyperspace Lane Maps/ Precursor Singal Suppressor/ Matter Reconstructor and PSU/ Cargo Eye, Just Passing Through, Home Cooking>. Soaring Selene ALLIES:< Werbly/ Sam/ Skrim/ Triml'n/ Sobek>. Soaring Selene CONTACTS:< Rakka>. Soaring Selene DIET:< fuel>.]",
+    "keys": "Ship, Soaring Selene",
+    "entry": "[Soaring Selene DESC:<Ship/ Stardancer/ freighter/ fly/ artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP:< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>. Soaring Selene POWERS:< Flase Ship papers/ Dark Hyperspace Lane Maps/ Precursor Singal Suppressor/ Matter Reconstructor and PSU/ Cargo Eye, Just Passing Through, Home Cooking>. Soaring Selene ALLIES:< Werbly/ Sam/ Skrim/ Triml'n/ Sobek>. Soaring Selene CONTACTS:< Rakka>. Soaring Selene DIET:< fuel>.]",
     "isNotHidden": true,
     "worldInfoId": "000000002"
   },
@@ -29,15 +29,15 @@
   },
   {
     "id": "0.000000005",
-    "keys": "Ship",
-    "entry": "The Harbingers is a titan-class exploration ship capable of carrying 5000 tons of equipment. It is self sustainable for up to 10,000 years. Most of the crew sleeps in hibernation. It also has a radiation leak which needs to be repaired.",
+    "keys": "Sam, crew",
+    "entry": "Does not like Skrim. Asian, hologlasses. A somewhat stereotypical handsome asain-looking guy. Well-muscled wavy red and black hair. Wears his sexy well though, has a presence. Wears holo-glasses for the look (as in a holographic projection of glasses). He's unconsciously adjusts them when he is thinking or nervous, even though they obviously don't ever need adjusting, and he can't even feel them. Outside of his elite uniform he wears a brown trench-coat, holo-trench-coat if the weather is too warm. Under which he wears a white dress-shirt black tie and leather pants.",
     "isNotHidden": true,
     "worldInfoId": "000000005"
   },
   {
     "id": "0.000000006",
-    "keys": "Captain",
-    "entry": "Captain Gannon is a world class pilot. He's professional and always helpful. more edits.",
+    "keys": "Scrimm, crew",
+    "entry": "Agent of Sol®. does not seem to know much. Likes Sam. Old co-worker of Werbly's. Ended up getting promoted to Sol's© Special Operations Division. On covert jobs she wears black fatigues and a  black scarf to cover her face. Off the job tends to wear a light blue skirt with this weird stretch fabric on the bottom that causes the skirt to billow out, but also acts as a bottom. Gives the impression of rolling waves while she walks. Top is a much more plain complementary blouse. Keeps hair in a bun. Tanned, blonde hair, bright golden eyes. Has a big crush on Sam, but Sam doesn't know about it.",
     "isNotHidden": true,
     "worldInfoId": "000000006"
   },
@@ -107,7 +107,7 @@
   {
     "id": "0.000000015",
     "keys": "Sol®, faction",
-    "entry": " [Sol®  DESC: <corporation/ money/ many stations/ fuel/ maintenance/ bounties/ protection/ FGGA/ traffic goods >. Sol® LOCATION:<stationsr>. Sol® ASSETS: <stations>.Sol® ALLIES: <no one>. Sol® ENEMIES: <SolSuckers/ Limey/ Hull Rippers>. Sol® SITUATION: <stations>.]",
+    "entry": " [Sol® DESC: <corporation/ money/ many stations/ fuel/ maintenance/ bounties/ protection/ FGGA/ traffic goods >. Sol® LOCATION:<stationsr>. Sol® ASSETS: <stations>.Sol® ALLIES: <no one>. Sol® ENEMIES: <SolSuckers/ Limey/ Hull Rippers>. Sol® SITUATION: <stations>.]",
     "isNotHidden": true,
     "worldInfoId": "000000016"
   },
