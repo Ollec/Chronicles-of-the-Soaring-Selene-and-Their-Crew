@@ -121,7 +121,7 @@
   {
     "id": "0.0001",
     "keys": "Sol© Station",
-    "entry": "[< Sol© Station DESC:< high tech corporate orbiting station>. <Sol© Station FACTION≡ Sol© Corporation>. < Powered entirely by the solar energy of the star it orbits this is a standard refueling/maintenance station owned and defended by the Sol® Corporation.>]",
+    "entry": "[ Sol© Station DESC:< high tech corporate orbiting station>. Sol© Station SYSTEM:< Ahemait>. Sol© Staion ORBITS:< Ahemait star>. <Sol© Station FACTION< Sol© Corporation>. <Sol© Station SERVICES: < refueling& maintenance for ships>< Powered entirely by the solar energy of the star it orbits this is a standard refueling/maintenance station owned and defended by the Sol® Corporation.>]",
     "hidden": "false",
     "worldInfoId": "236938337"
   }
