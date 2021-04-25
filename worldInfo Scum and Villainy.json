@@ -16,14 +16,14 @@
   {
     "id": "0.000000003",
     "keys": "Hull Rippers, faction",
-    "entry": " [Hull Rippers DESC: <Combat based/ ships&& melee attacks/ scrap/ captured vessels/ protective>.Hull Rippers LOCATION:<Ahemait/ Chance/ Asteroid belt>.Hull Rippers ASSETS: < ships≡ melee>/ <Moon / mining/ asteroid belt>>.Hull Rippers ALLIES: <Limey>.Hull Rippers ENEMIES: <Sol Suckers& Sol®>.Hull Rippers SITUATION: <melee ships/ fast/ pay/ dues/ ship parts/ protect people& Chance/ rebreathers/ poor atmosphere.>]",
+    "entry": " [Hull Rippers DESC≡ <Combat based/ ships&& melee attacks/ scrap/ captured vessels/ protective>.Hull Rippers LOCATION≡<Ahemait/ Chance/ Asteroid belt>.Hull Rippers ASSETS≡ < ships≡ melee>/ <Moon / mining/ asteroid belt>>.Hull Rippers ALLIES≡ <Limey>.Hull Rippers ENEMIES≡ <Sol Suckers& Sol®>.Hull Rippers SITUATION≡ <melee ships/ fast/ pay/ dues/ ship parts/ protect people& Chance/ rebreathers/ poor atmosphere.>]",
     "isNotHidden": true,
     "worldInfoId": "000000003"
   },
   {
     "id": "0.000000004",
     "keys": "Hull Rippers, faction",
-    "entry": "[Hull Rippers CHARACTERS: < name≡ Ta’Larg > <Ta’Larg RACE≡ <Large Half Human/ Half Vogon>. <Ta’Larg TRAITS≡ <Ruthless/ Distrustful / Short Temper/ Leader>>.< name≡ Varren> <Varren RACE≡<Human, Ruthless> < Varren TRAITS:< Lithe/ Expert Pilot>>.< name≡ Lo’Boto’rak> <Lo’Boto’rak race≡<Sinturian> < Lo’Boto’rak TRAITS:</Mechanic Savant/ creator of the special shipst>< Lo’Boto’rak DESC:< absent minded / mad raving>.>].",
+    "entry": "[Hull Rippers CHARACTERS≡ < name≡ Ta’Larg > <Ta’Larg RACE≡ <Large Half Human/ Half Vogon>. <Ta’Larg TRAITS≡ <Ruthless/ Distrustful / Short Temper/ Leader>>.< name≡ Varren> <Varren RACE≡<Human, Ruthless> < Varren TRAITS≡< Lithe/ Expert Pilot>>.< name≡ Lo’Boto’rak> <Lo’Boto’rak race≡<Sinturian> < Lo’Boto’rak TRAITS≡</Mechanic Savant/ creator of the special shipst>< Lo’Boto’rak DESC≡< absent minded / mad raving>.>].",
     "isNotHidden": true,
     "worldInfoId": "000000004"
   },
@@ -44,98 +44,98 @@
   {
     "id":  "0.000000007",
     "keys": "Ahemait& solar system", 
-    "Entry": "[Ahemait DESC:< mineral rich system>/< Single star named Ahemait>.Ahemait LOCATION:< edge of galaxy>.Ahemait PLACES:< Sol© Station& Barg’a’til Station& Asteroid Belt>.Ahemait PLANETS:< Ahemait 1& Ahemait 2& Ahemait 3& Ahemait 4>.Ahemait FACTIONS:< Limey>/< Hull Rippers>/< Sol© Corporation>.]",
+    "Entry": "[Ahemait DESC≡< mineral rich system>/< Single star named Ahemait>.Ahemait LOCATION≡< edge of galaxy>.Ahemait PLACES≡< Sol© Station& Barg’a’til Station& Asteroid Belt>.Ahemait PLANETS≡< Ahemait 1& Ahemait 2& Ahemait 3& Ahemait 4>.Ahemait FACTIONS≡< Limey>/< Hull Rippers>/< Sol© Corporation>.]",
      "Hidden": "false",
      "worldInfoId": "000000007"
   },
   {
     "id": "0.000000008",
     "keys": "Ahemait 1, planet",
-    "entry": "[Ahemait 1 DESC:< mineral rich planet>/< no atmosphere>. Ahemait 1 SOLAR SYSTEM:< Ahemait>.Ahemait 1 BIOME:< barren>. Ahemait 1 FEATURES:< rocky& volcanic>.Ahemait 1 NATIVE:< Limey≡ mining faction>.Ahemait 1 PLACES:< Dugout≡ mining city>]",
+    "entry": "[Ahemait 1 DESC≡< mineral rich planet>/< no atmosphere>. Ahemait 1 SOLAR SYSTEM≡< Ahemait>.Ahemait 1 BIOME≡< barren>. Ahemait 1 FEATURES≡< rocky& volcanic>.Ahemait 1 NATIVE≡< Limey≡ mining faction>.Ahemait 1 PLACES≡< Dugout≡ mining city>]",
     "hidden": "false",
     "worldInfoId": "000000008"
   },
   {
     "id": "0.000000009",
     "keys": "Ahemait 2, planet",
-    "entry": "[Ahemait 2 DESC:< frequent extreme quakes>.Ahemait 2 SOLAR SYSTEM:< Ahemait>. Ahemait 2 Biome:< barren>. Ahemait 2 FEATURES:< craggy& giant holes>. Ahemait 2 PLACES:< Chance≡ orbiting moon>]",
+    "entry": "[Ahemait 2 DESC≡< frequent extreme quakes>.Ahemait 2 SOLAR SYSTEM≡< Ahemait>. Ahemait 2 Biome≡< barren>. Ahemait 2 FEATURES≡< craggy& giant holes>. Ahemait 2 PLACES≡< Chance≡ orbiting moon>]",
     "hidden": "false",
     "worldInfoId": "000000009"
   },
   {
     "id": "0.00000010",
     "keys": "Ahemait 3, planet",
-    "entry": "[Ahemait 3 DESC:< Gas giant>.Ahemait 3 SOLAR SYSTEM:< Ahemait>. Ahemait 3 FEATURES:< 12 small moons& 2 large moons>. Ahemait 3 PLACES:< Aheamait 3 Research Station≡ orbiting observatory>/< Stigan Mining camp≡ mining camp on large moon>.]",
+    "entry": "[Ahemait 3 DESC≡< Gas giant>.Ahemait 3 SOLAR SYSTEM≡< Ahemait>. Ahemait 3 FEATURES≡< 12 small moons& 2 large moons>. Ahemait 3 PLACES≡< Aheamait 3 Research Station≡ orbiting observatory>/< Stigan Mining camp≡ mining camp on large moon>.]",
     "hidden": "false",
     "worldInfoId": "000000010"
   },
   {
     "id": "0.000000011",
     "keys": "Ahemait 4, planet",
-    "entry": "[Ahemait 4 DESC:< Ice planet>. Ahemait 4 SOLAR SYSTEM:< Ahemait>.]",
+    "entry": "[Ahemait 4 DESC≡< Ice planet>. Ahemait 4 SOLAR SYSTEM≡< Ahemait>.]",
     "hidden": "false",
     "worldInfoId": "000000011"
   },
   {
     "id": "0.00000012",
     "keys": "Limey, faction",
-    "entry": " [Limey  DESC: <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION:<Ahemait/ Dugout>.Limey ASSETS: <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES: <Hull Rippers>.Limey ENEMIES: <Sol®>.Limey SITUATION: <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
+    "entry": " [Limey  DESC≡ <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION≡<Ahemait/ Dugout>.Limey ASSETS≡ <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES≡ <Hull Rippers>.Limey ENEMIES≡ <Sol®>.Limey SITUATION≡ <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
     "isNotHidden": true,
     "worldInfoId": "000000012"
   },
   {
     "id": "0.000000013",
     "keys": "Limey, faction",
-    "entry": "[Limey CHARACTERS: < name≡ Freaigo > <Freaigo RACE≡Unknown>. <Freaigo TRAITS≡ <Leader/ reclusive / uses High Priest to talk/ covered/ Precursor/ artifacts>>. < name≡ Bibble > <Bibble  RACE≡<Kadoran> < Bibble TRAITS:<High Priest/ Vocal/ Golden Tongued/ Obsessed& Precursors/ Obsessed& artifacts/ Obsessed& Freaigo>.]",
+    "entry": "[Limey CHARACTERS≡ < name≡ Freaigo > <Freaigo RACE≡Unknown>. <Freaigo TRAITS≡ <Leader/ reclusive / uses High Priest to talk/ covered/ Precursor/ artifacts>>. < name≡ Bibble > <Bibble  RACE≡<Kadoran> < Bibble TRAITS≡<High Priest/ Vocal/ Golden Tongued/ Obsessed& Precursors/ Obsessed& artifacts/ Obsessed& Freaigo>.]",
     "isNotHidden": true,
     "worldInfoId": "000000013"
   },
   {
     "id": "0.000000014",
     "keys": "SolSuckers, faction",
-    "entry": " [SolSuckers  DESC: <Human/ humanity killed their home star/ affinity for stars/ reliant on solar energy/ artifacts >. SolSuckers LOCATION:<Stars/ Ahemait Star>. SolSuckers ASSETS: <advanced solar technology/ ships tech/ self destruct>.SolSuckers ALLIES: <no one>. SolSuckers ENEMIES: <Sol®/ Hull Rippers>. SolSuckers SITUATION: <take control&& stars/ Chosen& Apollo / starts>]",
+    "entry": " [SolSuckers  DESC≡ <Human/ humanity killed their home star/ affinity for stars/ reliant on solar energy/ artifacts >. SolSuckers LOCATION≡<Stars/ Ahemait Star>. SolSuckers ASSETS≡ <advanced solar technology/ ships tech/ self destruct>.SolSuckers ALLIES≡ <no one>. SolSuckers ENEMIES≡ <Sol®/ Hull Rippers>. SolSuckers SITUATION≡ <take control&& stars/ Chosen& Apollo / starts>]",
     "isNotHidden": true,
     "worldInfoId": "000000014"
   },
   {
     "id": "0.0000000015",
     "keys": "SolSuckers, faction",
-    "entry": "[SolSuckers CHARACTERS: < name≡ Apollo > <Freaigo RACE≡Human>. <Apollo TRAITS≡ <Leader/ self named / Narcissist/ Loves old Earth history/ Human purist>>. < name≡ Balor > <Balor RACE≡<Human> < Balor TRAITS:<Commander/ Ambitious>.]",
+    "entry": "[SolSuckers CHARACTERS≡ < name≡ Apollo > <Freaigo RACE≡Human>. <Apollo TRAITS≡ <Leader/ self named / Narcissist/ Loves old Earth history/ Human purist>>. < name≡ Balor > <Balor RACE≡<Human> < Balor TRAITS≡<Commander/ Ambitious>.]",
     "isNotHidden": true,
     "worldInfoId": "000000015"
   },
   {
     "id": "0.000000015",
     "keys": "Sol®, faction",
-    "entry": " [Sol® DESC: <corporation/ money/ many stations/ fuel/ maintenance/ bounties/ protection/ FGGA/ traffic goods >. Sol® LOCATION:<stationsr>. Sol® ASSETS: <stations>.Sol® ALLIES: <no one>. Sol® ENEMIES: <SolSuckers/ Limey/ Hull Rippers>. Sol® SITUATION: <stations>.]",
+    "entry": " [Sol®  DESC≡ <corporation/ money/ many stations/ fuel/ maintenance/ bounties/ protection/ FGGA/ traffic goods >. Sol® LOCATION≡<stationsr>. Sol® ASSETS≡ <stations>.Sol® ALLIES≡ <no one>. Sol® ENEMIES≡ <SolSuckers/ Limey/ Hull Rippers>. Sol® SITUATION≡ <stations>.]",
     "isNotHidden": true,
     "worldInfoId": "000000016"
   },
   {
     "id": "0.0000000017",
     "keys": "artifacts, Precursor goods",
-    "entry": " [Limey DESC: <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION:<Ahemait/ Dugout>.Limey ASSETS: <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES: <Hull Rippers>.Limey ENEMIES: <Sol®>.Limey SITUATION: <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
+    "entry": " [Limey DESC≡ <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION≡<Ahemait/ Dugout>.Limey ASSETS≡ <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES≡ <Hull Rippers>.Limey ENEMIES≡ <Sol®>.Limey SITUATION≡ <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
     "isNotHidden": true,
     "worldInfoId": "000000017"
   },
   {
     "id": "0.0001",
     "keys": "Sol© Station, fuel, refueling, ship repair, ship maintenance, station",
-    "entry": "[ Sol© Station DESC:< hightech corporate orbiting station>. Sol© Station SYSTEM:< Ahemait>. Sol© Staion ORBITS:< Ahemait star>. Sol© Station NEAR:< Barg’a’til Station>. Sol© Station FACTION< Sol© Corporation>. <Sol© Station SERVICES: < refueling& maintenance for ships>.< Sol© Station TECHNOLOGY:< cutting edge>.< Powered entirely by the solar energy of the star it orbits this is a standard refueling/maintenance station owned and defended by the Sol© Corporation.>]",
+    "entry": "[ Sol© Station DESC≡< hightech corporate orbiting station>. Sol© Station SYSTEM≡< Ahemait>. Sol© Staion ORBITS≡< Ahemait star>. Sol© Station NEAR≡< Barg’a’til Station>. Sol© Station FACTION< Sol© Corporation>. <Sol© Station SERVICES≡ < refueling& maintenance for ships>.< Sol© Station TECHNOLOGY≡< cutting edge>.< Powered entirely by the solar energy of the star it orbits this is a standard refueling/maintenance station owned and defended by the Sol© Corporation.>]",
     "hidden": "false",
     "worldInfoId": "236938337"
   },
   {
     "id": "0.0002",
     "keys": "Barg’a’til Station, pirate station, station, Sol© Station",
-    "entry": "[ Barg’a’til Station DESC:< former military station taken by space pirates>. Barg’a’til Station SYSTEM:< Ahemait>. Barg’a’til Station ORBITS:< Ahemait star>. Barg’a’til Station NEAR:< Sol© Station>. Barg’a’til Station FACTION:< SolSuckers>. < Powered entirely by the solar energy of the star it orbits this is a military station that was taken over by the SolSuckers. Used as a base to arry out attacks on people trying to reach the Sol© Station.>]",
+    "entry": "[ Barg’a’til Station DESC≡< former military station taken by space pirates>. Barg’a’til Station SYSTEM≡< Ahemait>. Barg’a’til Station ORBITS≡< Ahemait star>. Barg’a’til Station NEAR≡< Sol© Station>. Barg’a’til Station FACTION≡< SolSuckers>. < Powered entirely by the solar energy of the star it orbits this is a military station that was taken over by the SolSuckers. Used as a base to arry out attacks on people trying to reach the Sol© Station.>]",
     "hidden": "false",
     "worldInfoId": "058179953"
   },
   {
     "id": ".0003",
     "keys": "Dugout, mining town, black market",
-    "entry": "[ Dugout DESC:< underground mining town>. Dugout PLANET: < Ahemait 1>. Dugout SYSTEM:< Ahemait>. Dugout FACTION:< Limey>. Dugout FEATURES:< underground city>/< church that collects artifacts>. Dugout ECON:< moderate wealth& minerals& black market artifacts>]",
+    "entry": "[ Dugout DESC≡< underground mining town>. Dugout PLANET≡ < Ahemait 1>. Dugout SYSTEM≡< Ahemait>. Dugout FACTION≡< Limey>. Dugout FEATURES≡< underground city>/< church that collects artifacts>. Dugout ECON≡< moderate wealth& minerals& black market artifacts>]",
     "hidden": "false",
     "worldInfoId": "396460143"
   }
