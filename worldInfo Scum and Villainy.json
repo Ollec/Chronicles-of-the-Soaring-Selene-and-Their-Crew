@@ -138,5 +138,13 @@
     "entry": "[ Dugout DESC≡< underground mining town>. Dugout PLANET≡ < Ahemait 1>. Dugout SYSTEM≡< Ahemait>. Dugout FACTION≡< Limey>. Dugout FEATURES≡< underground city>/< church that collects artifacts>. Dugout ECON≡< moderate wealth& minerals& black market artifacts>]",
     "hidden": "false",
     "worldInfoId": "396460143"
+  },
+  {
+    "id": "A3RS, Ahemait 3 Research Station, Research station, Station",
+    "keys": ".0004",
+    "entry": "[ A3RS full name≡< Ahemait 3 Research Station>. A3RS DESC≡< automated Research station.> A3RS ORBITS≡< Ahemait 3>. A3RS SYSTEM≡< Ahemait>. A3RS SUMM≡< This research station is an unmanned observatory that has heavy turrets and an automated drone defense that has fought off all other factions>/< All approaching ships are shot down>. A3RS NATIVE≡ < robots& AI& fully automated>. A3RS WEAPONS≡< automated heavy turrets& drone defenses>. A3RS LACKS≡< living organisms>.]",
+    "hidden": "false",
+    "worldInfoId": "959095008"
   }
+
 ]
