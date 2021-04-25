@@ -120,9 +120,23 @@
   },
   {
     "id": "0.0001",
-    "keys": "Sol© Station",
-    "entry": "[ Sol© Station DESC:< high tech corporate orbiting station>. Sol© Station SYSTEM:< Ahemait>. Sol© Staion ORBITS:< Ahemait star>. <Sol© Station FACTION< Sol© Corporation>. <Sol© Station SERVICES: < refueling& maintenance for ships>< Powered entirely by the solar energy of the star it orbits this is a standard refueling/maintenance station owned and defended by the Sol® Corporation.>]",
+    "keys": "Sol© Station, fuel, refueling, ship repair, ship maintenance, station",
+    "entry": "[ Sol© Station DESC:< hightech corporate orbiting station>. Sol© Station SYSTEM:< Ahemait>. Sol© Staion ORBITS:< Ahemait star>. Sol© Station NEAR:< Barg’a’til Station>. Sol© Station FACTION< Sol© Corporation>. <Sol© Station SERVICES: < refueling& maintenance for ships>.< Sol© Station TECHNOLOGY:< cutting edge>.< Powered entirely by the solar energy of the star it orbits this is a standard refueling/maintenance station owned and defended by the Sol© Corporation.>]",
     "hidden": "false",
     "worldInfoId": "236938337"
+  },
+  {
+    "id": "0.0002",
+    "keys": "Barg’a’til Station, pirate station, station, Sol© Station",
+    "entry": "[ Barg’a’til Station DESC:< former military station taken by space pirates>. Barg’a’til Station SYSTEM:< Ahemait>. Barg’a’til Station ORBITS:< Ahemait star>. Barg’a’til Station NEAR:< Sol© Station>. Barg’a’til Station FACTION:< SolSuckers>. < Powered entirely by the solar energy of the star it orbits this is a military station that was taken over by the SolSuckers. Used as a base to arry out attacks on people trying to reach the Sol© Station.>]",
+    "hidden": "false",
+    "worldInfoId": "058179953"
+  },
+  {
+    "id": ".0003",
+    "keys": "Dugout, mining town, black market",
+    "entry": "[ Dugout DESC:< underground mining town>. Dugout PLANET: < Ahemait 1>. Dugout SYSTEM:< Ahemait>. Dugout FACTION:< Limey>. Dugout FEATURES:< underground city>/< church that collects artifacts>. Dugout ECON:< moderate wealth& minerals& black market artifacts>]",
+    "hidden": "false",
+    "worldInfoId": "396460143"
   }
 ]
