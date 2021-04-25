@@ -75,5 +75,26 @@
     "entry": "[Ahemait 4 DESC:< Ice planet>. Ahemait 4 SOLAR SYSTEM:< Ahemait>.]",
     "hidden": "false",
     "worldInfoId": "111111110"
+  },
+  {
+    "id": "0.30",
+    "keys": "Limey, faction",
+    "entry": " [Limey  DESC: <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION:<Ahemait/ Dugout>.Limey ASSETS: <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES: <Hull Rippers>.Limey ENEMIES: <Sol®>.Limey SITUATION: <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
+    "isNotHidden": true,
+    "worldInfoId": "111111113"
+  },
+  {
+    "id": "0.31",
+    "keys": "Limey, faction",
+    "entry": "[Limey CHARACTERS: < name≡ Freaigo > <Freaigo RACE≡Unknown>. <Freaigo TRAITS≡ <Leader/ reclusive / uses High Priest to talk/ covered/ Precursor/ artifacts>>. < name≡ Bibble > <Bibble  RACE≡<Kadoran> < Bibble TRAITS:<High Priest/ Vocal/ Golden Tongued/ Obsessed& Precursors/ Obsessed& artifacts/ Obsessed& Freaigo>.]",
+    "isNotHidden": true,
+    "worldInfoId": "111111123"
+  },
+  {
+    "id": "0.32",
+    "keys": "artifacts, Precursor goods",
+    "entry": " [Limey DESC: <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION:<Ahemait/ Dugout>.Limey ASSETS: <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES: <Hull Rippers>.Limey ENEMIES: <Sol®>.Limey SITUATION: <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
+    "isNotHidden": true,
+    "worldInfoId": "111111124"
   }
 ]
