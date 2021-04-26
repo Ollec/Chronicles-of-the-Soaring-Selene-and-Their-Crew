@@ -1,17 +1,24 @@
 ﻿[
   {
     "id": "0.000000001",
-    "keys": "Werbly",
-    "entry": "Tall, black, human woman, that has dark black hair with pink led tips. Causal clothes are denim colored blue latex overalls and a rainbow plaid shirt. Sol®. Knows Lilly as Talia. Tall, black, human woman, that has dark black hair with pink led tips. Wears the Sol© security outfit at work. Home is currently on Warren. Causal clothes are denim colored blue latex overalls and a rainbow plaid shirt.",
+    "keys": "Werbly, crew",
+    "entry": "[Werbly DESC≡ <Tall/ black/ human/ woman/ black hair with pink led tips>/ <Knows Lilly as Talia>. Werbly WORN≡ <Causal clothes/denim/ blue/ rainbow plaid shirt/ overalls/ Sol© security outfit>. Werbly HOME≡ < Warrent>. Werbly ALLIES≡ < Soaring Selene>. Werbly AGE≡ < 35>]",
     "isNotHidden": true,
     "worldInfoId": "000000001"
   },
   {
     "id": "0.000000002",
     "keys": "Ship, Soaring Selene",
-    "entry": "[Soaring Selene DESC:<Ship/ Stardancer/ freighter/ fly/ artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP:< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>. Soaring Selene POWERS:< Flase Ship papers/ Dark Hyperspace Lane Maps/ Precursor Singal Suppressor/ Matter Reconstructor and PSU/ Cargo Eye, Just Passing Through, Home Cooking>. Soaring Selene ALLIES:< Werbly/ Sam/ Skrim/ Triml'n/ Sobek>. Soaring Selene CONTACTS:< Rakka>. Soaring Selene DIET:< fuel>.]",
+    "entry": "[Soaring Selene DESC≡<Ship/ Stardancer/ freighter/ fly/ artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP≡< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>.]",
     "isNotHidden": true,
     "worldInfoId": "000000002"
+  },
+  {
+    "id": "0.0000000021",
+    "keys": "Ship, Soaring Selene",
+    "entry": "[Soaring Selene POWERS≡< Flase Ship papers/ Dark Hyperspace Lane Maps/ Precursor Singal Suppressor/ Matter Reconstructor and PSU/ Cargo Eye/ Just Passing Through/ Home Cooking>. Soaring Selene ALLIES≡< Werbly/ Sam/ Scrimm/ Triml'n/ Sobek>. Soaring Selene CONTACTS≡< Rakka>. Soaring Selene DIET≡< fuel>.]",
+    "isNotHidden": true,
+    "worldInfoId": "0000000021"
   },
   {
     "id": "0.000000003",
@@ -30,14 +37,14 @@
   {
     "id": "0.000000005",
     "keys": "Sam, crew",
-    "entry": "Does not like Skrim. Asian, hologlasses. A somewhat stereotypical handsome asain-looking guy. Well-muscled wavy red and black hair. Wears his sexy well though, has a presence. Wears holo-glasses for the look (as in a holographic projection of glasses). He's unconsciously adjusts them when he is thinking or nervous, even though they obviously don't ever need adjusting, and he can't even feel them. Outside of his elite uniform he wears a brown trench-coat, holo-trench-coat if the weather is too warm. Under which he wears a white dress-shirt black tie and leather pants.",
+    "entry": "[Sam DESC≡ <asain-looking/ handsome/ human/ male/ Well-muscled/ wavy red and black hair/ presence>/ <Does not like Scrimm>. Sam WORN≡ <hologlasses/ elite uniform/ brown trench-coat/ holo-trench-coat/ white dress-shirt/  black tie/ leather pants>. Sam ALLIES≡ < Soaring Selene>. Sam AGE≡ < 35>]",
     "isNotHidden": true,
     "worldInfoId": "000000005"
   },
   {
     "id": "0.000000006",
     "keys": "Scrimm, crew",
-    "entry": "Agent of Sol®. does not seem to know much. Likes Sam. Old co-worker of Werbly's. Ended up getting promoted to Sol's© Special Operations Division. On covert jobs she wears black fatigues and a  black scarf to cover her face. Off the job tends to wear a light blue skirt with this weird stretch fabric on the bottom that causes the skirt to billow out, but also acts as a bottom. Gives the impression of rolling waves while she walks. Top is a much more plain complementary blouse. Keeps hair in a bun. Tanned, blonde hair, bright golden eyes. Has a big crush on Sam, but Sam doesn't know about it.",
+    "entry": "[Scrimm DESC≡ <covert/ human/ woman/hair in a bun/ bright golden eyes/ Tanned skin>/ <big crush on Sam>/ <co-worker of Werbly'>. Scrimm WORN≡ <black fatigues/ black scarf/ covers her face/ light blue skirt& rolling waves/ plain complementary blouse/ black tie/ leather pants>. Scrimm JOB≡ < Agent of Sol®/ Sol's© Special Operations Division>. Scrimm ALLIES≡ < Sol®, Werbly>. Scrimm AGE≡ < 35>]",
     "isNotHidden": true,
     "worldInfoId": "000000006"
   },
