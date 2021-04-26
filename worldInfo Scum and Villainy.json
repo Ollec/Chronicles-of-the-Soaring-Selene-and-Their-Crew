@@ -9,21 +9,21 @@
   {
     "id": "0.000000002",
     "keys": "Ship, Soaring Selene",
-    "entry": "[Soaring Selene DESC≡<Ship/ Stardancer/ freighter/ fly/ artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP≡< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>.]",
+    "entry": "[Soaring Selene DESC≡<Ship/ Stardancer/ freighter/ fly/ Artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP≡< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>.]",
     "isNotHidden": true,
     "worldInfoId": "000000002"
   },
   {
     "id": "0.0000000021",
     "keys": "Ship, Soaring Selene",
-    "entry": "[Soaring Selene POWERS≡< Flase Ship papers/ Dark Hyperspace Lane Maps/ Precursor Singal Suppressor/ Matter Reconstructor and PSU/ Cargo Eye/ Just Passing Through/ Home Cooking>. Soaring Selene ALLIES≡< Werbly/ Sam/ Scrimm/ Triml'n/ Sobek>. Soaring Selene CONTACTS≡< Rakka>. Soaring Selene DIET≡< fuel>.]",
+    "entry": "[Soaring Selene POWERS≡< Flase Ship papers/ Dark Hyperspace Lane Maps/ Precursor Signal Suppressor/ Matter Reconstructor and PSU/ Cargo Eye/ Just Passing Through/ Home Cooking>. Soaring Selene ALLIES≡< Werbly/ Sam/ Scrimm/ Triml'n/ Sobek/ Artifacts>. Soaring Selene CONTACTS≡< Rakka>. Soaring Selene DIET≡< fuel>.]",
     "isNotHidden": true,
     "worldInfoId": "0000000021"
   },
   {
     "id": "0.000000003",
     "keys": "Hull Rippers, faction",
-    "entry": " [Hull Rippers DESC≡ <Combat based/ ships&& melee attacks/ scrap/ captured vessels/ protective>.Hull Rippers LOCATION≡<Ahemait/ Chance/ Asteroid belt>.Hull Rippers ASSETS≡ < ships≡ melee>/ <Moon / mining/ asteroid belt>>.Hull Rippers ALLIES≡ <Limey>.Hull Rippers ENEMIES≡ <Sol Suckers& Sol®>.Hull Rippers SITUATION≡ <melee ships/ fast/ pay/ dues/ ship parts/ protect people& Chance/ rebreathers/ poor atmosphere.>]",
+    "entry": " [Hull Rippers DESC≡ <Combat based/ ships&& melee attacks/ scrap/ captured vessels/ protective>.Hull Rippers LOCATION≡<Ahemait/ Chance/ Asteroid belt>.Hull Rippers ASSETS≡ < ships≡ melee>/ <Moon / mining/ asteroid belt>>. Hull Rippers ALLIES≡ <Limey>.Hull Rippers ENEMIES≡ <Sol Suckers& Sol®>.Hull Rippers SITUATION≡ <melee ships/ fast/ pay/ dues/ ship parts/ protect people& Chance/ rebreathers/ poor atmosphere.>]",
     "isNotHidden": true,
     "worldInfoId": "000000003"
   },
@@ -58,14 +58,14 @@
   {
     "id": "0.000000008",
     "keys": "Ahemait 1, planet",
-    "entry": "[Ahemait 1 DESC≡< mineral rich planet>/< no atmosphere>. Ahemait 1 SOLAR SYSTEM≡< Ahemait>.Ahemait 1 BIOME≡< barren>. Ahemait 1 FEATURES≡< rocky& volcanic>.Ahemait 1 NATIVE≡< Limey≡ mining faction>.Ahemait 1 PLACES≡< Dugout≡ mining city>]",
+    "entry": "[Ahemait 1 DESC≡< mineral rich planet>/< no atmosphere>. Ahemait 1 SOLAR SYSTEM≡< Ahemait>.Ahemait 1 BIOME≡< barren>. Ahemait 1 FEATURES≡< rocky& volcanic>. Ahemait 1 NATIVE≡< Limey≡ mining faction>. Ahemait 1 PLACES≡< Dugout≡ mining city>]",
     "hidden": "false",
     "worldInfoId": "000000008"
   },
   {
     "id": "0.000000009",
     "keys": "Ahemait 2, planet",
-    "entry": "[Ahemait 2 DESC≡< frequent extreme quakes>.Ahemait 2 SOLAR SYSTEM≡< Ahemait>. Ahemait 2 Biome≡< barren>. Ahemait 2 FEATURES≡< craggy& giant holes>. Ahemait 2 PLACES≡< Chance≡ orbiting moon>]",
+    "entry": "[Ahemait 2 DESC≡< frequent extreme quakes>. Ahemait 2 SOLAR SYSTEM≡< Ahemait>. Ahemait 2 Biome≡< barren>. Ahemait 2 FEATURES≡< craggy& giant holes>. Ahemait 2 PLACES≡< Chance≡ orbiting moon>]",
     "hidden": "false",
     "worldInfoId": "000000009"
   },
@@ -86,14 +86,14 @@
   {
     "id": "0.00000012",
     "keys": "Limey, faction",
-    "entry": " [Limey  DESC≡ <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION≡<Ahemait/ Dugout>.Limey ASSETS≡ <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES≡ <Hull Rippers>.Limey ENEMIES≡ <Sol®>.Limey SITUATION≡ <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
+    "entry": " [Limey  DESC≡ <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ Collector&& Artifacts >.Limey LOCATION≡<Ahemait/ Dugout>. Limey ASSETS≡ <Precursor tech/ broken Precursor Artifacts / working Precursor Artifacts>. Limey ALLIES≡ <Hull Rippers>.Limey ENEMIES≡ <Sol®>. Limey SITUATION≡ <obsessed&& Precursors/ worship Precursor Artifacts/ black market>. Limey PASSION≡ <Artifacts>.]",
     "isNotHidden": true,
     "worldInfoId": "000000012"
   },
   {
     "id": "0.000000013",
     "keys": "Limey, faction",
-    "entry": "[Limey CHARACTERS≡ < name≡ Freaigo > <Freaigo RACE≡Unknown>. <Freaigo TRAITS≡ <Leader/ reclusive / uses High Priest to talk/ covered/ Precursor/ artifacts>>. < name≡ Bibble > <Bibble  RACE≡<Kadoran> < Bibble TRAITS≡<High Priest/ Vocal/ Golden Tongued/ Obsessed& Precursors/ Obsessed& artifacts/ Obsessed& Freaigo>.]",
+    "entry": "[Limey CHARACTERS≡ < name≡ Freaigo > <Freaigo RACE≡Unknown>. <Freaigo TRAITS≡ <Leader/ reclusive / uses High Priest to talk/ covered/ Precursor/ artifacts>.  Freaigo PASSION≡ <Artifacts>.>. < name≡ Bibble > <Bibble  RACE≡<Kadoran> < Bibble TRAITS≡<High Priest/ Vocal/ Golden Tongued/ Obsessed& Precursors/ Obsessed& artifacts/ Obsessed& Freaigo> Bibble PASSION≡ < Freaigo>.]",
     "isNotHidden": true,
     "worldInfoId": "000000013"
   },
@@ -114,14 +114,14 @@
   {
     "id": "0.000000015",
     "keys": "Sol®, faction",
-    "entry": " [Sol®  DESC≡ <corporation/ money/ many stations/ fuel/ maintenance/ bounties/ protection/ FGGA/ traffic goods >. Sol® LOCATION≡<stationsr>. Sol® ASSETS≡ <stations>.Sol® ALLIES≡ <no one>. Sol® ENEMIES≡ <SolSuckers/ Limey/ Hull Rippers>. Sol® SITUATION≡ <stations>.]",
+    "entry": " [Sol®  DESC≡ <corporation/ money/ many stations/ fuel/ maintenance/ bounties/ protection/ FGGA/ traffic goods >. Sol® LOCATION≡<stations>. Sol® ASSETS≡ <stations>. Sol® ALLIES≡ <no one>. Sol® ENEMIES≡ <SolSuckers/ Limey/ Hull Rippers>. Sol® SITUATION≡ <stations>.]",
     "isNotHidden": true,
     "worldInfoId": "000000016"
   },
   {
     "id": "0.0000000017",
-    "keys": "artifacts, Precursor goods",
-    "entry": " [Limey DESC≡ <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ artifacts >.Limey LOCATION≡<Ahemait/ Dugout>.Limey ASSETS≡ <Precursor tech/ broken Precursor artifacts / working Precursor artifacts>.Limey ALLIES≡ <Hull Rippers>.Limey ENEMIES≡ <Sol®>.Limey SITUATION≡ <obsessed&& Precursors/ worship Precursor artifacts/ black market.>]",
+    "keys": "Artifacts, Precursor goods",
+    "entry": " [Artifacts DESC≡ <broken/ working/ ancient/ Precursor/ hunted/ worshiped/ glowing/ powers/ magic-like/ dormant/ illegal /study/ mysterious >. Artifacts LOCATION≡< Dugout/ Ahemait>. Artifacts ASSETS≡ <Precursor tech/ broken Precursor Artifacts / working Precursor Artifacts>. Artifacts ALLIES≡ <Limey/ Precursor>. Artifacts ENEMIES≡ <Sol®>. Artifacts POWERS≡ <changes/ creation/ power/ knowledge/ artificial intelligence& AI/ Soaring Selene>]",
     "isNotHidden": true,
     "worldInfoId": "000000017"
   },
@@ -147,10 +147,17 @@
     "worldInfoId": "396460143"
   },
   {
-    "id": "A3RS, Ahemait 3 Research Station, Research station, Station",
-    "keys": ".0004",
+    "id": ".0004",
+    "keys": "A3RS, Ahemait 3 Research Station, Research station, Station",
     "entry": "[ A3RS full name≡< Ahemait 3 Research Station>. A3RS DESC≡< automated Research station.> A3RS ORBITS≡< Ahemait 3>. A3RS SYSTEM≡< Ahemait>. A3RS SUMM≡< This research station is an unmanned observatory that has heavy turrets and an automated drone defense that has fought off all other factions>/< All approaching ships are shot down>. A3RS NATIVE≡ < robots& AI& fully automated>. A3RS WEAPONS≡< automated heavy turrets& drone defenses>. A3RS LACKS≡< living organisms>.]",
     "hidden": "false",
     "worldInfoId": "959095008"
+  },
+  {
+    "id": "0.0000000018",
+    "keys": "Sobek, pet",
+    "entry": "[Sobek DESC≡ < pet/ Small/ doggu/ dog-like / dog/ no snout/ big eyes/ curly tail/ actively wags tail/ surprisingly intelligent/ young/ no speaking>. Sobek ALLIES≡ < Soaring Selene/ Sehn& Ghost Runner>. Sobek AGE≡ < young>. Sobek PASSION≡ < happy/ wag tail>.]",
+    "isNotHidden": true,
+    "worldInfoId": "0000000018"
   }
 ]
