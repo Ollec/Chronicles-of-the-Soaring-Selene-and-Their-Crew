@@ -8,8 +8,8 @@
   },
   {
     "id": "0.000000002",
-    "keys": "Ship, Soaring Selene",
-    "entry": "[Soaring Selene DESC≡<Ship/ Stardancer/ freighter/ fly/ Artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP≡< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>.]",
+    "keys": "Ship, Soaring Selene, spaceship",
+    "entry": "[Soaring Selene DESC≡<ship/ spaceship/space/ Stardancer/ freighter/ fly/ Artifact/ AI/ Precursor artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP≡< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>.]",
     "isNotHidden": true,
     "worldInfoId": "000000002"
   },
@@ -44,7 +44,7 @@
   {
     "id": "0.000000006",
     "keys": "Scrimm, crew",
-    "entry": "[Scrimm DESC≡ <covert/ human/ woman/hair in a bun/ bright golden eyes/ Tanned skin>/ <big crush on Sam>/ <co-worker of Werbly'>. Scrimm WORN≡ <black fatigues/ black scarf/ covers her face/ light blue skirt& rolling waves/ plain complementary blouse/ black tie/ leather pants>. Scrimm JOB≡ < Agent of Sol®/ Sol's© Special Operations Division>. Scrimm ALLIES≡ < Sol®, Werbly>. Scrimm AGE≡ < 35>]",
+    "entry": "[Scrimm DESC≡ <covert/ human/ woman/hair in a bun/ bright golden eyes/ Tanned skin>/ <big crush on Sam>/ <co-worker of Werbly'>. Scrimm WORN≡ <black fatigues/ black scarf/ covers her face/ light blue skirt& rolling waves/ plain complementary blouse/ black tie/ leather pants>. Scrimm JOB≡ < Agent of Sol®/ Sol© Special Operations Division>. Scrimm ALLIES≡ < Sol®, Werbly>. Scrimm AGE≡ < 35>]",
     "isNotHidden": true,
     "worldInfoId": "000000006"
   },
@@ -120,10 +120,17 @@
   },
   {
     "id": "0.0000000017",
-    "keys": "Artifacts, Precursor goods",
-    "entry": " [Artifacts DESC≡ <broken/ working/ ancient/ Precursor/ hunted/ worshiped/ glowing/ powers/ magic-like/ dormant/ illegal /study/ mysterious >. Artifacts LOCATION≡< Dugout/ Ahemait>. Artifacts ASSETS≡ <Precursor tech/ broken Precursor Artifacts / working Precursor Artifacts>. Artifacts ALLIES≡ <Limey/ Precursor>. Artifacts ENEMIES≡ <Sol®>. Artifacts POWERS≡ <changes/ creation/ power/ knowledge/ artificial intelligence& AI/ Soaring Selene>]",
+    "keys": "Artifacts, Precursor goods, Artifact",
+    "entry": " [ Artifacts DESC≡ <broken/ working/ ancient/ Precursor/ hunted/ worshiped/ glowing/ powers/ magic-like/ dormant/ illegal /study/ mysterious/ Orphic Energies/ technology >.]",
     "isNotHidden": true,
     "worldInfoId": "000000017"
+  },
+  {
+    "id": "0.00000000171",
+    "keys": "Artifacts, Precursor goods, Artifact",
+    "entry": " [ Artifacts LOCATION≡< Dugout/ Ahemait>. Artifacts ASSETS≡ <Precursor tech/ broken Precursor Artifacts / working Precursor Artifacts>. Artifacts ALLIES≡ <Limey/ Precursor>. Artifacts ENEMIES≡ <Sol®>. Artifacts POWERS≡ <changes/ creation/ power/ knowledge/ artificial intelligence& AI/ Soaring Selene>]",
+    "isNotHidden": true,
+    "worldInfoId": "000000019"
   },
   {
     "id": "0.0001",
@@ -159,5 +166,12 @@
     "entry": "[Sobek DESC≡ < pet/ Small/ doggu/ dog-like / dog/ no snout/ big eyes/ curly tail/ actively wags tail/ surprisingly intelligent/ young/ no speaking>. Sobek ALLIES≡ < Soaring Selene/ Sehn& Ghost Runner>. Sobek AGE≡ < young>. Sobek PASSION≡ < happy/ wag tail>.]",
     "isNotHidden": true,
     "worldInfoId": "0000000018"
+  },
+  {
+    "id": "0.0000000019",
+    "keys": "Precursors",
+    "entry": "[ Precursors DESC≡ < ancient civilization/ gone/ mystirious/ god-like / powerful/ missing/ ruins/ galactic/ species/ Orphic Energies/ planets/ lost /technology/ Artifacts>. Precursors CHARACTERS≡ < name≡ Orpheus > < Orpheus RACE≡Precursors> < Orpheus TRAITS≡< worshiped/ darkness>. Precursors AGE≡< ancient>.]",
+    "isNotHidden": true,
+    "worldInfoId": "0000000019"
   }
 ]
