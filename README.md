@@ -20,5 +20,9 @@ Maybe use a generator for Worldinfo ids
  * Systems - https://docs.google.com/document/d/1lBR0z4lYXv91-OtKq3KD4I8HQHIsFnAQyny-2RvT0ew/edit#
  * GM Notes - https://trello.com/b/ExZ2jU7g/scum-and-villainy
 
-Research including categories:
-https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%20Research%20Sheet.md#zaltys-locations
+
+#### References
+
+ * Research including categories - https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%20Research%20Sheet.md#zaltys-locations
+ * Author's Note writing style testing - https://justpaste.it/9ofj1
+ * valahraban AID-World-Info-research-sheet - https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%20Research%20Sheet.md#detail
