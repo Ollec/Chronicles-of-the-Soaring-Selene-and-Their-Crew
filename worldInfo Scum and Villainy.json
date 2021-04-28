@@ -128,7 +128,7 @@
   {
     "id": "0.00000000171",
     "keys": "Artifacts, Precursor goods, Artifact",
-    "entry": " [ Artifacts LOCATION≡< Dugout/ Ahemait>. Artifacts ASSETS≡ <Precursor tech/ broken Precursor Artifacts / working Precursor Artifacts>. Artifacts ALLIES≡ <Limey/ Precursor>. Artifacts ENEMIES≡ <Sol®>. Artifacts POWERS≡ <changes/ creation/ power/ knowledge/ artificial intelligence& AI/ Soaring Selene>]",
+    "entry": "[ Artifacts LOCATION≡< Dugout/ Ahemait>. Artifacts ASSETS≡ <Precursor tech/ broken Precursor Artifacts / working Precursor Artifacts>. Artifacts POWERS≡ <changes/ creation/ power/ knowledge/ artificial intelligence& AI/ Soaring Selene>]",
     "isNotHidden": true,
     "worldInfoId": "000000019"
   },
