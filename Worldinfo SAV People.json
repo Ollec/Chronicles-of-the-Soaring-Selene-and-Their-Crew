@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0.000000001",
+    "keys": "Werbly, crew",
+    "entry": "[Werbly DESC≡ <Tall/ black/ human/ woman/ black hair with pink led tips>/ <Knows Lilly as Talia>. Werbly WORN≡ <Causal clothes/denim/ blue/ rainbow plaid shirt/ overalls/ Sol© security outfit>. Werbly HOME≡ < Warrent>. Werbly ALLIES≡ < Soaring Selene>. Werbly AGE≡ < 35>]",
+    "isNotHidden": true,
+    "worldInfoId": "000000001"
+  },
+  {
+    "id": "0.000000002",
+    "keys": "Ship, Soaring Selene, spaceship",
+    "entry": "[Soaring Selene DESC≡<ship/ spaceship/ space/ Stardancer/ freighter/ fly/ Artifact/ AI/ Precursor Artifact>. Soaring Selene MIND:< Daring/ Strange/ Professional>. Soaring Selene EQUIP≡< Smuggling compartments/ Cargo Hold/ Crew Quarters/ Jump Drive/ Afterburners/ Cloaking Device/ Longer Range Scanner/ Precursor Blaster/ AI Module/ Brig/ Galley/ Sheilds/ Medical Bay/ Intruder Alarm/ Power Reserves/ Vault>.]",
+    "isNotHidden": true,
+    "worldInfoId": "000000002"
+  },
+  {
+    "id": "0.0000000021",
+    "keys": "Ship, Soaring Selene",
+    "entry": "[Soaring Selene POWERS≡< Flase Ship papers/ Dark Hyperspace Lane Maps/ Precursor Signal Suppressor/ Matter Reconstructor and PSU/ Cargo Eye/ Just Passing Through/ Home Cooking>. Soaring Selene ALLIES≡< Werbly/ Sam/ Scrimm/ Triml'n/ Sobek/ Artifacts>. Soaring Selene CONTACTS≡< Rakka>. Soaring Selene DIET≡< fuel>.]",
+    "isNotHidden": true,
+    "worldInfoId": "0000000021"
+  },
+  {
+    "id": "0.000000005",
+    "keys": "Sam, crew",
+    "entry": "[Sam DESC≡ <asain-looking/ handsome/ human/ male/ Well-muscled/ wavy red and black hair/ presence>/ <Does not like Scrimm>. Sam WORN≡ <hologlasses/ elite uniform/ brown trench-coat/ holo-trench-coat/ white dress-shirt/  black tie/ leather pants>. Sam ALLIES≡ < Soaring Selene>. Sam AGE≡ < 35>]",
+    "isNotHidden": true,
+    "worldInfoId": "000000005"
+  },
+  {
+    "id": "0.000000006",
+    "keys": "Scrimm, crew",
+    "entry": "[Scrimm DESC≡ <covert/ human/ woman/hair in a bun/ bright golden eyes/ Tanned skin>/ <big crush on Sam>/ <co-worker of Werbly'>. Scrimm WORN≡ <black fatigues/ black scarf/ covers her face/ light blue skirt& rolling waves/ plain complementary blouse/ black tie/ leather pants>. Scrimm JOB≡ < Agent of Sol®/ Sol© Special Operations Division>. Scrimm ALLIES≡ < Sol®, Werbly>. Scrimm AGE≡ < 35>]",
+    "isNotHidden": true,
+    "worldInfoId": "000000006"
+  },
+  {
+    "id": "0.0000000018",
+    "keys": "Sobek, pet",
+    "entry": "[Sobek DESC≡ < pet/ Small/ doggu/ dog-like / dog/ no snout/ big eyes/ curly tail/ actively wags tail/ surprisingly intelligent/ young/ no speaking>. Sobek ALLIES≡ < Soaring Selene/ Sehn& Ghost Runner>. Sobek AGE≡ < young>. Sobek PASSION≡ < happy/ wag tail>.]",
+    "isNotHidden": true,
+    "worldInfoId": "0000000018"
+  },
+]

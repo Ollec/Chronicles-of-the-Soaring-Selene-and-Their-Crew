@@ -1,0 +1,72 @@
+[
+  {
+    "id": "0.000000003",
+    "keys": "Hull Rippers, faction",
+    "entry": " [Hull Rippers DESC≡ <Combat based/ ships&& melee attacks/ scrap/ captured vessels/ protective>.Hull Rippers LOCATION≡<Ahemait/ Chance/ Asteroid belt>.Hull Rippers ASSETS≡ < ships≡ melee>/ <Moon / mining/ asteroid belt>>. Hull Rippers ALLIES≡ <Limey>.Hull Rippers ENEMIES≡ <Sol Suckers& Sol®>.Hull Rippers SITUATION≡ <melee ships/ fast/ pay/ dues/ ship parts/ protect people& Chance/ rebreathers/ poor atmosphere.>]",
+    "isNotHidden": true,
+    "worldInfoId": "000000003"
+  },
+  {
+    "id": "0.000000004",
+    "keys": "Hull Rippers, faction",
+    "entry": "[Hull Rippers CHARACTERS≡ < name≡ Ta’Larg > <Ta’Larg RACE≡ <Large Half Human/ Half Vogon>. <Ta’Larg TRAITS≡ <Ruthless/ Distrustful / Short Temper/ Leader>>.< name≡ Varren> <Varren RACE≡<Human, Ruthless> < Varren TRAITS≡< Lithe/ Expert Pilot>>.< name≡ Lo’Boto’rak> <Lo’Boto’rak race≡<Sinturian> < Lo’Boto’rak TRAITS≡</Mechanic Savant/ creator of the special shipst>< Lo’Boto’rak DESC≡< absent minded / mad raving>.>].",
+    "isNotHidden": true,
+    "worldInfoId": "000000004"
+  },
+  {
+    "id": "0.00000012",
+    "keys": "Limey, faction",
+    "entry": " [Limey  DESC≡ <Dugout/ Ahemait/ black market/ affinity for Precursor goods/ worship the precursors/ Collector&& Artifacts >.Limey LOCATION≡<Ahemait/ Dugout>. Limey ASSETS≡ <Precursor tech/ broken Precursor Artifacts / working Precursor Artifacts>. Limey ALLIES≡ <Hull Rippers>.Limey ENEMIES≡ <Sol®>. Limey SITUATION≡ <obsessed&& Precursors/ worship Precursor Artifacts/ black market>. Limey PASSION≡ <Artifacts>.]",
+    "isNotHidden": true,
+    "worldInfoId": "000000012"
+  },
+  {
+    "id": "0.000000013",
+    "keys": "Limey, faction",
+    "entry": "[Limey CHARACTERS≡ < name≡ Freaigo > <Freaigo RACE≡Unknown>. <Freaigo TRAITS≡ <Leader/ reclusive / uses High Priest to talk/ covered/ Precursor/ artifacts>.  Freaigo PASSION≡ <Artifacts>.>. < name≡ Bibble > <Bibble  RACE≡<Kadoran> < Bibble TRAITS≡<High Priest/ Vocal/ Golden Tongued/ Obsessed& Precursors/ Obsessed& artifacts/ Obsessed& Freaigo> Bibble PASSION≡ < Freaigo>.]",
+    "isNotHidden": true,
+    "worldInfoId": "000000013"
+  },
+  {
+    "id": "0.000000014",
+    "keys": "SolSuckers, faction",
+    "entry": " [SolSuckers  DESC≡ <Human/ humanity killed their home star/ affinity for stars/ reliant on solar energy/ artifacts >. SolSuckers LOCATION≡<Stars/ Ahemait Star>. SolSuckers ASSETS≡ <advanced solar technology/ ships tech/ self destruct>.SolSuckers ALLIES≡ <no one>. SolSuckers ENEMIES≡ <Sol®/ Hull Rippers>. SolSuckers SITUATION≡ <take control&& stars/ Chosen& Apollo / starts>]",
+    "isNotHidden": true,
+    "worldInfoId": "000000014"
+  },
+  {
+    "id": "0.0000000015",
+    "keys": "SolSuckers, faction",
+    "entry": "[SolSuckers CHARACTERS≡ < name≡ Apollo > <Freaigo RACE≡Human>. <Apollo TRAITS≡ <Leader/ self named / Narcissist/ Loves old Earth history/ Human purist>>. < name≡ Balor > <Balor RACE≡<Human> < Balor TRAITS≡<Commander/ Ambitious>.]",
+    "isNotHidden": true,
+    "worldInfoId": "000000015"
+  },
+  {
+    "id": "0.000000015",
+    "keys": "Sol®, faction",
+    "entry": " [Sol®  DESC≡ <corporation/ money/ many stations/ fuel/ maintenance/ bounties/ protection/ FGGA/ traffic goods >. Sol® LOCATION≡<stations>. Sol® ASSETS≡ <stations>. Sol® ALLIES≡ <no one>. Sol® ENEMIES≡ <SolSuckers/ Limey/ Hull Rippers>. Sol® SITUATION≡ <stations>.]",
+    "isNotHidden": true,
+    "worldInfoId": "000000016"
+  },
+  {
+    "id": "0.0000000017",
+    "keys": "Artifacts, Precursor goods, Artifact",
+    "entry": " [ Artifacts DESC≡ <broken/ working/ ancient/ Precursor/ hunted/ worshiped/ glowing/ powers/ magic-like/ dormant/ illegal /study/ mysterious/ Orphic Energies/ technology >.]",
+    "isNotHidden": true,
+    "worldInfoId": "000000017"
+  },
+  {
+    "id": "0.00000000171",
+    "keys": "Artifacts, Precursor goods, Artifact",
+    "entry": "[ Artifacts LOCATION≡< Dugout/ Ahemait>. Artifacts ASSETS≡ <Precursor tech/ broken Precursor Artifacts / working Precursor Artifacts>. Artifacts POWERS≡ <changes/ creation/ power/ knowledge/ artificial intelligence& AI/ Soaring Selene>]",
+    "isNotHidden": true,
+    "worldInfoId": "000000019"
+  },
+  {
+    "id": "0.0000000019",
+    "keys": "Precursors",
+    "entry": "[ Precursors DESC≡ < ancient civilization/ gone/ mystirious/ god-like / powerful/ missing/ ruins/ galactic/ species/ Orphic Energies/ planets/ lost /technology/ Artifacts>. Precursors CHARACTERS≡ < name≡ Orpheus > < Orpheus RACE≡Precursors> < Orpheus TRAITS≡< worshiped/ darkness>. Precursors AGE≡< ancient>.]",
+    "isNotHidden": true,
+    "worldInfoId": "0000000019"
+  }
+]
