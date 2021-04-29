@@ -50,7 +50,7 @@
   },
   {
     "id":  "0.000000007",
-    "keys": "Ahemait& solar system", 
+    "keys": "Ahemait, solar system, system", 
     "Entry": "[Ahemait DESC≡< mineral rich system>/< Single star named Ahemait>.Ahemait LOCATION≡< edge of galaxy>.Ahemait PLACES≡< Sol© Station& Barg’a’til Station& Asteroid Belt>.Ahemait PLANETS≡< Ahemait 1& Ahemait 2& Ahemait 3& Ahemait 4>.Ahemait FACTIONS≡< Limey>/< Hull Rippers>/< Sol© Corporation>.]",
      "Hidden": "false",
      "worldInfoId": "000000007"
@@ -173,5 +173,12 @@
     "entry": "[ Precursors DESC≡ < ancient civilization/ gone/ mystirious/ god-like / powerful/ missing/ ruins/ galactic/ species/ Orphic Energies/ planets/ lost /technology/ Artifacts>. Precursors CHARACTERS≡ < name≡ Orpheus > < Orpheus RACE≡Precursors> < Orpheus TRAITS≡< worshiped/ darkness>. Precursors AGE≡< ancient>.]",
     "isNotHidden": true,
     "worldInfoId": "0000000019"
+  },
+  {
+    "id": "0.0005",
+    "keys": "Rin, Solar system, system",
+    "entry": "[ Rin DESC≡< very populated system>/< administration& commercial center>. LOCATION≡< edge of galaxy>. PLACES≡< Warren& Ashtari Cloud& Strayliight& The Cove>. Rin PLANETS≡< Aleph& Vet>. FACTIONS≡< Duality Institute& FTFIA& Vigaaro>.]",
+    "hidden": false,
+    "worldInfoId": "981005192"
   }
 ]
